@@ -1,6 +1,7 @@
 # COVID19-Data-Analysis-and-Visualization-using-Python
 
 * Author(s): Riley DeConkey, Elijah Moore, Haifaa Abushaaban
+* Contributor(s): Andrew Hamilton-Wright, Kassy Raymond
 * Date of Last Update: Mar 09, 2021.
 * Functional Summary: Each program reads a CSV file and saves a plot based on the data to a PDF file.
 
@@ -15,3 +16,14 @@
 * [Statistics Canada Health Profile Data](https://www12.statcan.gc.ca/health-sante/82-228/search-recherche/lst/page.cfm?Lang=E&GeoLevel=PR&GEOCODE=35)
     * This data provides demographic and other information about specific Public Health Units within the province
     * Statistics Canada ("StatsCan") has a variety of data tools, including the (Census)[https://www.statcan.gc.ca/eng/census?MM=1] of which the Public Health Profile data is a part
+ * Data sets must be manually updated
+
+# Packages
+
+* pandas version 1.3.4, https://pandas.pydata.org/
+* seaborn version 0.11.2, https://seaborn.pydata.org/
+
+# Packager files
+
+* poetry.lock
+* pyproject.toml
